@@ -6,9 +6,8 @@
   volumenes/liquenesecosistemas00.pdf
     <img src="img/portada0.jpg" alt="Nº 00" width="200p align="center">
   volumenes/liquenesecosistemas01.pdf
-    img/portada1.jpg<br>
-    <strong>Nº 01</strong>
-  </a>
+    <img src="img/portada1.jpg" alt="Nº 01" width="200p align="center">
+   </a>
 </p>
 
 
