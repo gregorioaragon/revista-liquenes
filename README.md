@@ -1,5 +1,5 @@
 
- Revista Líquenes y Ecosistemas
+ Boletín divulgativo - Líquenes y Ecosistemas
 
 ## Volúmenes disponibles
 
