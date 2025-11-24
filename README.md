@@ -1,5 +1,5 @@
 
-***Boletín divulgativo - Líquenes y Ecosistemas****
+<h2 align="center"><strong>Boletín divulgativo - Líquenes y Ecosistemas</strong></h2>
 
 ## Volúmenes disponibles
 
